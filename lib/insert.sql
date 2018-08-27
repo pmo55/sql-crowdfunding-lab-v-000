@@ -17,3 +17,5 @@ INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) V
 (10, 'Help save birds of paradise', 'charity', 5000.00, '2012-03-20', '2013-06-30');
 
 
+
+
